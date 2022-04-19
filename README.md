@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 Developer focused on Ruby On Rails.
 
